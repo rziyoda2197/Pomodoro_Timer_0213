@@ -1,0 +1,2 @@
+WORK_MIN = 25
+BREAK_MIN = 5
